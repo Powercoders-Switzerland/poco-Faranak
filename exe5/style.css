@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    display: grid;
+
+}
+
+header {
+    background-color: bisque;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: blue;
+    position: sticky;
+    position: -webkit-sticky;
+    bottom: 0;
+
+}
