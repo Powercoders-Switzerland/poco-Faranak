@@ -1,0 +1,20 @@
+nav {
+    background-color: rgb(235, 239, 238);
+    padding: 0.5em;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    align-items: flex-end;
+    justify-content: space-around;
+    padding: 5px;
+    overflow: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+
+}

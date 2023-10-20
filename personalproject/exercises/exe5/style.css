@@ -1,0 +1,22 @@
+body {
+
+    display: grid;
+
+}
+
+header {
+    background-color: bisque;
+    position: sticky;
+    top: 0;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: blue;
+    position: sticky;
+    bottom: 0;
+
+}

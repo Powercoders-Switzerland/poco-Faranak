@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    height: 100vh;
+
+
+
+}
+
+.main-style {
+    background-color: aqua;
+    flex: 1;
+
+
+}
+
+footer {
+    justify-content:
+
+}

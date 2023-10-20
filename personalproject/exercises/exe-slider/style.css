@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 8px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    height: 100%;
+}
+
+a {
+    bottom: 10vh;
+    left: 45vw;
+    position: fixed;
+    margin: 4px;
+    padding: 2px;
+}
